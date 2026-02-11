@@ -2,7 +2,7 @@
     <header>
     </header>
     <body>
-        <h1> Hello ladies and gentlemen</h1>
+        <h1> Hello person reading this</h1>
         <h1> 👋</h1>
         <h2><p> some games that I like to play are...</p></h2>
         <ul>
