@@ -12,6 +12,8 @@
             <li><button>https://www.roblox.com/</button></li>
         </ul>
         <h2><p> what are some games you like to play?</p></h2>
-        <input type="text" placeholder="write here">
+        <footer>
+            <input type="text" placeholder="write here">
+        </footer>
     </body>
 </html>
