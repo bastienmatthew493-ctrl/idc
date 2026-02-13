@@ -13,6 +13,8 @@
             <li><button>https://www.rockstargames.com/games/maxpayne</button></li>
         </ul>
         <h2><p> what are some games you like to play?</p></h2>
+        <h2><p> Also, add a sub to my yt channel</p></h2>
+        <button> https://www.youtube.com/@Smilly136</button>
         <footer>
             <input type="text" placeholder="write here">
         </footer>
